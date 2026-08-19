@@ -2490,6 +2490,1043 @@
       "categoryGroup": "Classic Hunts",
       "searchCategory": "archaeological ruins",
       "pixabayCategory": "science"
+    },
+    {
+      "id": "country-flags",
+      "title": "Country Flags",
+      "targets": [
+        "united-states",
+        "japan",
+        "brazil",
+        "france"
+      ],
+      "objects": [
+        {
+          "id": "new-zealand",
+          "name": "New Zealand",
+          "emoji": "\ud83c\uddf3\ud83c\uddff",
+          "markerId": "marker-13",
+          "searchQuery": "New Zealand country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "australia",
+          "name": "Australia",
+          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "markerId": "marker-15",
+          "searchQuery": "Australia country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "south-korea",
+          "name": "South Korea",
+          "emoji": "\ud83c\uddf0\ud83c\uddf7",
+          "markerId": "marker-24",
+          "searchQuery": "South Korea country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "brazil",
+          "name": "Brazil",
+          "emoji": "\ud83c\udde7\ud83c\uddf7",
+          "markerId": "marker-05",
+          "searchQuery": "Brazil country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "united-kingdom",
+          "name": "United Kingdom",
+          "emoji": "\ud83c\uddec\ud83c\udde7",
+          "markerId": "marker-08",
+          "searchQuery": "United Kingdom country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "china",
+          "name": "China",
+          "emoji": "\ud83c\udde8\ud83c\uddf3",
+          "markerId": "marker-09",
+          "searchQuery": "China country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "canada",
+          "name": "Canada",
+          "emoji": "\ud83c\udde8\ud83c\udde6",
+          "markerId": "marker-03",
+          "searchQuery": "Canada country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "spain",
+          "name": "Spain",
+          "emoji": "\ud83c\uddea\ud83c\uddf8",
+          "markerId": "marker-23",
+          "searchQuery": "Spain country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "greece",
+          "name": "Greece",
+          "emoji": "\ud83c\uddec\ud83c\uddf7",
+          "markerId": "marker-21",
+          "searchQuery": "Greece country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "india",
+          "name": "India",
+          "emoji": "\ud83c\uddee\ud83c\uddf3",
+          "markerId": "marker-12",
+          "searchQuery": "India country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "japan",
+          "name": "Japan",
+          "emoji": "\ud83c\uddef\ud83c\uddf5",
+          "markerId": "marker-01",
+          "searchQuery": "Japan country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "egypt",
+          "name": "Egypt",
+          "emoji": "\ud83c\uddea\ud83c\uddec",
+          "markerId": "marker-07",
+          "searchQuery": "Egypt country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "norway",
+          "name": "Norway",
+          "emoji": "\ud83c\uddf3\ud83c\uddf4",
+          "markerId": "marker-11",
+          "searchQuery": "Norway country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "south-africa",
+          "name": "South Africa",
+          "emoji": "\ud83c\uddff\ud83c\udde6",
+          "markerId": "marker-20",
+          "searchQuery": "South Africa country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "israel",
+          "name": "Israel",
+          "emoji": "\ud83c\uddee\ud83c\uddf1",
+          "markerId": "marker-22",
+          "searchQuery": "Israel country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "germany",
+          "name": "Germany",
+          "emoji": "\ud83c\udde9\ud83c\uddea",
+          "markerId": "marker-06",
+          "searchQuery": "Germany country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "turkey",
+          "name": "Turkey",
+          "emoji": "\ud83c\uddf9\ud83c\uddf7",
+          "markerId": "marker-17",
+          "searchQuery": "Turkey country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "italy",
+          "name": "Italy",
+          "emoji": "\ud83c\uddee\ud83c\uddf9",
+          "markerId": "marker-18",
+          "searchQuery": "Italy country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "argentina",
+          "name": "Argentina",
+          "emoji": "\ud83c\udde6\ud83c\uddf7",
+          "markerId": "marker-19",
+          "searchQuery": "Argentina country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "sweden",
+          "name": "Sweden",
+          "emoji": "\ud83c\uddf8\ud83c\uddea",
+          "markerId": "marker-16",
+          "searchQuery": "Sweden country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "ireland",
+          "name": "Ireland",
+          "emoji": "\ud83c\uddee\ud83c\uddea",
+          "markerId": "marker-04",
+          "searchQuery": "Ireland country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "united-states",
+          "name": "United States",
+          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "markerId": "marker-10",
+          "searchQuery": "United States country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "france",
+          "name": "France",
+          "emoji": "\ud83c\uddeb\ud83c\uddf7",
+          "markerId": "marker-02",
+          "searchQuery": "France country flag photo",
+          "searchCategory": "country flag"
+        },
+        {
+          "id": "mexico",
+          "name": "Mexico",
+          "emoji": "\ud83c\uddf2\ud83c\uddfd",
+          "markerId": "marker-14",
+          "searchQuery": "Mexico country flag photo",
+          "searchCategory": "country flag"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "country flag",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "animal-habitats",
+      "title": "Animal Habitats",
+      "targets": [
+        "rainforest",
+        "desert",
+        "arctic-tundra",
+        "coral-reef"
+      ],
+      "objects": [
+        {
+          "id": "arctic-tundra",
+          "name": "arctic tundra",
+          "emoji": "\ud83e\uddca",
+          "markerId": "marker-12",
+          "searchQuery": "arctic tundra habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "river",
+          "name": "river",
+          "emoji": "\ud83c\udfde\ufe0f",
+          "markerId": "marker-17",
+          "searchQuery": "river habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "deep-sea",
+          "name": "deep sea",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-23",
+          "searchQuery": "deep sea habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "rainforest",
+          "name": "rainforest",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-09",
+          "searchQuery": "rainforest habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "mangrove",
+          "name": "mangrove",
+          "emoji": "\ud83c\udf34",
+          "markerId": "marker-04",
+          "searchQuery": "mangrove habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "jungle-canopy",
+          "name": "jungle canopy",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-02",
+          "searchQuery": "jungle canopy habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "mountain",
+          "name": "mountain",
+          "emoji": "\ud83c\udfd4\ufe0f",
+          "markerId": "marker-19",
+          "searchQuery": "mountain habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "desert",
+          "name": "desert",
+          "emoji": "\ud83c\udfdc\ufe0f",
+          "markerId": "marker-01",
+          "searchQuery": "desert habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "prairie",
+          "name": "prairie",
+          "emoji": "\ud83c\udf3e",
+          "markerId": "marker-08",
+          "searchQuery": "prairie habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "bamboo-forest",
+          "name": "bamboo forest",
+          "emoji": "\ud83c\udf8b",
+          "markerId": "marker-24",
+          "searchQuery": "bamboo forest habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "pond",
+          "name": "pond",
+          "emoji": "\ud83d\udc38",
+          "markerId": "marker-05",
+          "searchQuery": "pond habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "cave",
+          "name": "cave",
+          "emoji": "\ud83d\udd73\ufe0f",
+          "markerId": "marker-20",
+          "searchQuery": "cave habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "coral-reef",
+          "name": "coral reef",
+          "emoji": "\ud83e\udeb8",
+          "markerId": "marker-10",
+          "searchQuery": "coral reef habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "beech-forest",
+          "name": "beech forest",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-22",
+          "searchQuery": "beech forest habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "ocean",
+          "name": "ocean",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-15",
+          "searchQuery": "ocean habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "estuary",
+          "name": "estuary",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-16",
+          "searchQuery": "estuary habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "kelp-forest",
+          "name": "kelp forest",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-07",
+          "searchQuery": "kelp forest habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "salt-flat",
+          "name": "salt flat",
+          "emoji": "\ud83e\uddc2",
+          "markerId": "marker-06",
+          "searchQuery": "salt flat habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "tide-pool",
+          "name": "tide pool",
+          "emoji": "\ud83e\udd80",
+          "markerId": "marker-18",
+          "searchQuery": "tide pool habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "savanna",
+          "name": "savanna",
+          "emoji": "\ud83e\udd81",
+          "markerId": "marker-11",
+          "searchQuery": "savanna habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "wetland",
+          "name": "wetland",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-21",
+          "searchQuery": "wetland habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "volcanic-island",
+          "name": "volcanic island",
+          "emoji": "\ud83c\udfdd\ufe0f",
+          "markerId": "marker-03",
+          "searchQuery": "volcanic island habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "grassland",
+          "name": "grassland",
+          "emoji": "\ud83e\uddac",
+          "markerId": "marker-13",
+          "searchQuery": "grassland habitat photo",
+          "searchCategory": "habitat"
+        },
+        {
+          "id": "alpine-meadow",
+          "name": "alpine meadow",
+          "emoji": "\ud83c\udfd4\ufe0f",
+          "markerId": "marker-14",
+          "searchQuery": "alpine meadow habitat photo",
+          "searchCategory": "habitat"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "habitat"
+    },
+    {
+      "id": "pokemon-characters",
+      "title": "Pok\u00e9mon Characters",
+      "targets": [
+        "pikachu",
+        "charizard",
+        "bulbasaur",
+        "squirtle"
+      ],
+      "objects": [
+        {
+          "id": "cubone",
+          "name": "Cubone",
+          "emoji": "\ud83e\uddb4",
+          "markerId": "marker-07",
+          "searchQuery": "Cubone pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "eevee",
+          "name": "Eevee",
+          "emoji": "\ud83e\udd8a",
+          "markerId": "marker-10",
+          "searchQuery": "Eevee pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "jigglypuff",
+          "name": "Jigglypuff",
+          "emoji": "\ud83c\udfa4",
+          "markerId": "marker-23",
+          "searchQuery": "Jigglypuff pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "pikachu",
+          "name": "Pikachu",
+          "emoji": "\u26a1",
+          "markerId": "marker-12",
+          "searchQuery": "Pikachu pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "gengar",
+          "name": "Gengar",
+          "emoji": "\ud83d\udc7b",
+          "markerId": "marker-13",
+          "searchQuery": "Gengar pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "machamp",
+          "name": "Machamp",
+          "emoji": "\ud83d\udcaa",
+          "markerId": "marker-16",
+          "searchQuery": "Machamp pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "lucario",
+          "name": "Lucario",
+          "emoji": "\ud83e\udd4b",
+          "markerId": "marker-08",
+          "searchQuery": "Lucario pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "psyduck",
+          "name": "Psyduck",
+          "emoji": "\ud83e\udd86",
+          "markerId": "marker-17",
+          "searchQuery": "Psyduck pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "meowth",
+          "name": "Meowth",
+          "emoji": "\ud83d\udc31",
+          "markerId": "marker-18",
+          "searchQuery": "Meowth pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "mewtwo",
+          "name": "Mewtwo",
+          "emoji": "\ud83e\uddec",
+          "markerId": "marker-19",
+          "searchQuery": "Mewtwo pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "onix",
+          "name": "Onix",
+          "emoji": "\ud83e\udea8",
+          "markerId": "marker-01",
+          "searchQuery": "Onix pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "magikarp",
+          "name": "Magikarp",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-20",
+          "searchQuery": "Magikarp pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "bulbasaur",
+          "name": "Bulbasaur",
+          "emoji": "\ud83c\udf31",
+          "markerId": "marker-09",
+          "searchQuery": "Bulbasaur pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "greninja",
+          "name": "Greninja",
+          "emoji": "\ud83d\udc38",
+          "markerId": "marker-21",
+          "searchQuery": "Greninja pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "pokeball",
+          "name": "Pokeball",
+          "emoji": "\ud83d\udd34",
+          "markerId": "marker-04",
+          "searchQuery": "Pokeball pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "vulpix",
+          "name": "Vulpix",
+          "emoji": "\ud83e\udd8a",
+          "markerId": "marker-03",
+          "searchQuery": "Vulpix pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "charizard",
+          "name": "Charizard",
+          "emoji": "\ud83d\udd25",
+          "markerId": "marker-02",
+          "searchQuery": "Charizard pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "lapras",
+          "name": "Lapras",
+          "emoji": "\ud83d\udc22",
+          "markerId": "marker-14",
+          "searchQuery": "Lapras pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "snorlax",
+          "name": "Snorlax",
+          "emoji": "\ud83d\ude34",
+          "markerId": "marker-11",
+          "searchQuery": "Snorlax pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "squirtle",
+          "name": "Squirtle",
+          "emoji": "\ud83d\udca7",
+          "markerId": "marker-05",
+          "searchQuery": "Squirtle pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "dragonite",
+          "name": "Dragonite",
+          "emoji": "\ud83d\udc09",
+          "markerId": "marker-22",
+          "searchQuery": "Dragonite pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "togepi",
+          "name": "Togepi",
+          "emoji": "\ud83e\udd5a",
+          "markerId": "marker-15",
+          "searchQuery": "Togepi pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "pichu",
+          "name": "Pichu",
+          "emoji": "\u26a1",
+          "markerId": "marker-06",
+          "searchQuery": "Pichu pokemon photo",
+          "searchCategory": "pokemon"
+        },
+        {
+          "id": "charmander",
+          "name": "Charmander",
+          "emoji": "\ud83d\udd25",
+          "markerId": "marker-24",
+          "searchQuery": "Charmander pokemon photo",
+          "searchCategory": "pokemon"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "pokemon",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "pete-the-cat",
+      "title": "Pete the Cat",
+      "targets": [
+        "pete-the-cat",
+        "callie",
+        "gus",
+        "grumpy-toad"
+      ],
+      "objects": [
+        {
+          "id": "apple",
+          "name": "apple",
+          "emoji": "\ud83c\udf4e",
+          "markerId": "marker-05",
+          "searchQuery": "apple children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "pizza",
+          "name": "pizza",
+          "emoji": "\ud83c\udf55",
+          "markerId": "marker-21",
+          "searchQuery": "pizza children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "red-shoes",
+          "name": "red shoes",
+          "emoji": "\ud83d\udc5f",
+          "markerId": "marker-15",
+          "searchQuery": "red shoes children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "skateboard",
+          "name": "skateboard",
+          "emoji": "\ud83d\udef9",
+          "markerId": "marker-08",
+          "searchQuery": "skateboard children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "white-shoes",
+          "name": "white shoes",
+          "emoji": "\ud83d\udc5f",
+          "markerId": "marker-02",
+          "searchQuery": "white shoes children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "four-buttons",
+          "name": "four buttons",
+          "emoji": "\ud83d\udd18",
+          "markerId": "marker-01",
+          "searchQuery": "four buttons children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "blue-shoes",
+          "name": "blue shoes",
+          "emoji": "\ud83d\udc5f",
+          "markerId": "marker-16",
+          "searchQuery": "blue shoes children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "callie",
+          "name": "Callie",
+          "emoji": "\ud83d\udc31",
+          "markerId": "marker-09",
+          "searchQuery": "Callie children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "rain-boots",
+          "name": "rain boots",
+          "emoji": "\ud83e\udd7e",
+          "markerId": "marker-24",
+          "searchQuery": "rain boots children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "bedtime-moon",
+          "name": "bedtime moon",
+          "emoji": "\ud83c\udf19",
+          "markerId": "marker-20",
+          "searchQuery": "bedtime moon children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "grumpy-toad",
+          "name": "Grumpy Toad",
+          "emoji": "\ud83d\udc38",
+          "markerId": "marker-12",
+          "searchQuery": "Grumpy Toad children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "guitar",
+          "name": "guitar",
+          "emoji": "\ud83c\udfb8",
+          "markerId": "marker-17",
+          "searchQuery": "guitar children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "hot-dog",
+          "name": "hot dog",
+          "emoji": "\ud83c\udf2d",
+          "markerId": "marker-22",
+          "searchQuery": "hot dog children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "backpack",
+          "name": "backpack",
+          "emoji": "\ud83c\udf92",
+          "markerId": "marker-23",
+          "searchQuery": "backpack children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "gus",
+          "name": "Gus",
+          "emoji": "\ud83d\udc31",
+          "markerId": "marker-07",
+          "searchQuery": "Gus children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "school-bus",
+          "name": "school bus",
+          "emoji": "\ud83d\ude8c",
+          "markerId": "marker-04",
+          "searchQuery": "school bus children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "paint-brush",
+          "name": "paint brush",
+          "emoji": "\ud83d\udd8c\ufe0f",
+          "markerId": "marker-13",
+          "searchQuery": "paint brush children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "groovy-buttons",
+          "name": "groovy buttons",
+          "emoji": "\ud83d\udd18",
+          "markerId": "marker-03",
+          "searchQuery": "groovy buttons children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "pete-the-cat",
+          "name": "Pete the Cat",
+          "emoji": "\ud83d\udc31",
+          "markerId": "marker-11",
+          "searchQuery": "Pete the Cat children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "library-book",
+          "name": "library book",
+          "emoji": "\ud83d\udcda",
+          "markerId": "marker-14",
+          "searchQuery": "library book children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "turtle",
+          "name": "Turtle",
+          "emoji": "\ud83d\udc22",
+          "markerId": "marker-19",
+          "searchQuery": "Turtle children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "cookie",
+          "name": "cookie",
+          "emoji": "\ud83c\udf6a",
+          "markerId": "marker-18",
+          "searchQuery": "cookie children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "squirrel",
+          "name": "Squirrel",
+          "emoji": "\ud83d\udc3f\ufe0f",
+          "markerId": "marker-10",
+          "searchQuery": "Squirrel children book photo",
+          "searchCategory": "children book"
+        },
+        {
+          "id": "sunglasses",
+          "name": "sunglasses",
+          "emoji": "\ud83d\udd76\ufe0f",
+          "markerId": "marker-06",
+          "searchQuery": "sunglasses children book photo",
+          "searchCategory": "children book"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "children book"
+    },
+    {
+      "id": "wild-kratts",
+      "title": "Wild Kratts",
+      "targets": [
+        "cheetah",
+        "crocodile",
+        "elephant",
+        "bald-eagle"
+      ],
+      "objects": [
+        {
+          "id": "martin-kratt",
+          "name": "Martin Kratt",
+          "emoji": "\ud83e\uddd1",
+          "markerId": "marker-07",
+          "searchQuery": "Martin Kratt wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "crocodile",
+          "name": "crocodile",
+          "emoji": "\ud83d\udc0a",
+          "markerId": "marker-04",
+          "searchQuery": "crocodile wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "creature-power-disc",
+          "name": "creature power disc",
+          "emoji": "\ud83d\udcbf",
+          "markerId": "marker-08",
+          "searchQuery": "creature power disc wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "mantis-shrimp",
+          "name": "mantis shrimp",
+          "emoji": "\ud83e\udd90",
+          "markerId": "marker-23",
+          "searchQuery": "mantis shrimp wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "aviva",
+          "name": "Aviva",
+          "emoji": "\ud83d\udc69",
+          "markerId": "marker-18",
+          "searchQuery": "Aviva wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "rhino",
+          "name": "rhino",
+          "emoji": "\ud83e\udd8f",
+          "markerId": "marker-17",
+          "searchQuery": "rhino wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "komodo-dragon",
+          "name": "komodo dragon",
+          "emoji": "\ud83e\udd8e",
+          "markerId": "marker-13",
+          "searchQuery": "komodo dragon wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "tortuga",
+          "name": "tortuga",
+          "emoji": "\ud83d\udc22",
+          "markerId": "marker-22",
+          "searchQuery": "tortuga wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "orca",
+          "name": "orca",
+          "emoji": "\ud83d\udc0b",
+          "markerId": "marker-09",
+          "searchQuery": "orca wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "chris-kratt",
+          "name": "Chris Kratt",
+          "emoji": "\ud83e\uddd1",
+          "markerId": "marker-06",
+          "searchQuery": "Chris Kratt wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "penguin",
+          "name": "penguin",
+          "emoji": "\ud83d\udc27",
+          "markerId": "marker-15",
+          "searchQuery": "penguin wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "monkey",
+          "name": "monkey",
+          "emoji": "\ud83d\udc12",
+          "markerId": "marker-20",
+          "searchQuery": "monkey wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "dolphin",
+          "name": "dolphin",
+          "emoji": "\ud83d\udc2c",
+          "markerId": "marker-16",
+          "searchQuery": "dolphin wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "elephant",
+          "name": "elephant",
+          "emoji": "\ud83d\udc18",
+          "markerId": "marker-12",
+          "searchQuery": "elephant wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "draco-lizard",
+          "name": "draco lizard",
+          "emoji": "\ud83e\udd8e",
+          "markerId": "marker-19",
+          "searchQuery": "draco lizard wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "wolf",
+          "name": "wolf",
+          "emoji": "\ud83d\udc3a",
+          "markerId": "marker-11",
+          "searchQuery": "wolf wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "bald-eagle",
+          "name": "bald eagle",
+          "emoji": "\ud83e\udd85",
+          "markerId": "marker-05",
+          "searchQuery": "bald eagle wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "koki",
+          "name": "Koki",
+          "emoji": "\ud83d\udc69",
+          "markerId": "marker-10",
+          "searchQuery": "Koki wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "blue-heron",
+          "name": "blue heron",
+          "emoji": "\ud83e\udda9",
+          "markerId": "marker-14",
+          "searchQuery": "blue heron wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "cheetah",
+          "name": "cheetah",
+          "emoji": "\ud83d\udc06",
+          "markerId": "marker-01",
+          "searchQuery": "cheetah wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "firefly",
+          "name": "firefly",
+          "emoji": "\u2728",
+          "markerId": "marker-03",
+          "searchQuery": "firefly wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "jimmy-z",
+          "name": "Jimmy Z",
+          "emoji": "\ud83d\udc68",
+          "markerId": "marker-21",
+          "searchQuery": "Jimmy Z wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "hummingbird",
+          "name": "hummingbird",
+          "emoji": "\ud83d\udc26",
+          "markerId": "marker-24",
+          "searchQuery": "hummingbird wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "beaver",
+          "name": "beaver",
+          "emoji": "\ud83e\uddab",
+          "markerId": "marker-02",
+          "searchQuery": "beaver wildlife photo",
+          "searchCategory": "wildlife"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "wildlife"
     }
   ]
 }

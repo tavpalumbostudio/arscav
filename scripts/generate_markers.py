@@ -1271,7 +1271,163 @@ ROUNDS = [
 
 # Hunts published via remote manifest only (app appends by round id).
 # Author here, then: python scripts/generate_markers.py --remote-only
-REMOTE_ROUNDS: list[dict] = []
+REMOTE_ROUNDS: list[dict] = [
+    {
+        "id": "country-flags",
+        "title": "Country Flags",
+        "targets": ["United States", "Japan", "Brazil", "France"],
+        "objects": [
+            ("United States", "🇺🇸"),
+            ("Japan", "🇯🇵"),
+            ("Brazil", "🇧🇷"),
+            ("France", "🇫🇷"),
+            ("Canada", "🇨🇦"),
+            ("Mexico", "🇲🇽"),
+            ("United Kingdom", "🇬🇧"),
+            ("Germany", "🇩🇪"),
+            ("Italy", "🇮🇹"),
+            ("Spain", "🇪🇸"),
+            ("Australia", "🇦🇺"),
+            ("India", "🇮🇳"),
+            ("China", "🇨🇳"),
+            ("South Korea", "🇰🇷"),
+            ("South Africa", "🇿🇦"),
+            ("Argentina", "🇦🇷"),
+            ("Sweden", "🇸🇪"),
+            ("Norway", "🇳🇴"),
+            ("Ireland", "🇮🇪"),
+            ("Greece", "🇬🇷"),
+            ("Turkey", "🇹🇷"),
+            ("Egypt", "🇪🇬"),
+            ("Israel", "🇮🇱"),
+            ("New Zealand", "🇳🇿"),
+        ],
+    },
+    {
+        "id": "animal-habitats",
+        "title": "Animal Habitats",
+        "targets": ["rainforest", "desert", "arctic tundra", "coral reef"],
+        "objects": [
+            ("rainforest", "🌳"),
+            ("desert", "🏜️"),
+            ("arctic tundra", "🧊"),
+            ("coral reef", "🪸"),
+            ("savanna", "🦁"),
+            ("wetland", "🌿"),
+            ("mountain", "🏔️"),
+            ("grassland", "🦬"),
+            ("ocean", "🌊"),
+            ("river", "🏞️"),
+            ("mangrove", "🌴"),
+            ("cave", "🕳️"),
+            ("pond", "🐸"),
+            ("prairie", "🌾"),
+            ("jungle canopy", "🌳"),
+            ("tide pool", "🦀"),
+            ("bamboo forest", "🎋"),
+            ("volcanic island", "🏝️"),
+            ("deep sea", "🐟"),
+            ("estuary", "🌊"),
+            ("alpine meadow", "🏔️"),
+            ("salt flat", "🧂"),
+            ("kelp forest", "🌿"),
+            ("beech forest", "🌳"),
+        ],
+    },
+    {
+        "id": "pokemon-characters",
+        "title": "Pokémon Characters",
+        "targets": ["Pikachu", "Charizard", "Bulbasaur", "Squirtle"],
+        "objects": [
+            ("Pikachu", "⚡"),
+            ("Charizard", "🔥"),
+            ("Bulbasaur", "🌱"),
+            ("Squirtle", "💧"),
+            ("Eevee", "🦊"),
+            ("Jigglypuff", "🎤"),
+            ("Snorlax", "😴"),
+            ("Mewtwo", "🧬"),
+            ("Gengar", "👻"),
+            ("Dragonite", "🐉"),
+            ("Lucario", "🥋"),
+            ("Greninja", "🐸"),
+            ("Charmander", "🔥"),
+            ("Psyduck", "🦆"),
+            ("Meowth", "🐱"),
+            ("Machamp", "💪"),
+            ("Magikarp", "🐟"),
+            ("Lapras", "🐢"),
+            ("Cubone", "🦴"),
+            ("Togepi", "🥚"),
+            ("Pichu", "⚡"),
+            ("Vulpix", "🦊"),
+            ("Onix", "🪨"),
+            ("Pokeball", "🔴"),
+        ],
+    },
+    {
+        "id": "pete-the-cat",
+        "title": "Pete the Cat",
+        "targets": ["Pete the Cat", "Callie", "Gus", "Grumpy Toad"],
+        "objects": [
+            ("Pete the Cat", "🐱"),
+            ("Callie", "🐱"),
+            ("Gus", "🐱"),
+            ("Grumpy Toad", "🐸"),
+            ("Squirrel", "🐿️"),
+            ("Turtle", "🐢"),
+            ("blue shoes", "👟"),
+            ("white shoes", "👟"),
+            ("red shoes", "👟"),
+            ("groovy buttons", "🔘"),
+            ("guitar", "🎸"),
+            ("school bus", "🚌"),
+            ("pizza", "🍕"),
+            ("library book", "📚"),
+            ("skateboard", "🛹"),
+            ("sunglasses", "🕶️"),
+            ("backpack", "🎒"),
+            ("apple", "🍎"),
+            ("paint brush", "🖌️"),
+            ("cookie", "🍪"),
+            ("bedtime moon", "🌙"),
+            ("rain boots", "🥾"),
+            ("hot dog", "🌭"),
+            ("four buttons", "🔘"),
+        ],
+    },
+    {
+        "id": "wild-kratts",
+        "title": "Wild Kratts",
+        "targets": ["cheetah", "crocodile", "elephant", "bald eagle"],
+        "objects": [
+            ("cheetah", "🐆"),
+            ("crocodile", "🐊"),
+            ("elephant", "🐘"),
+            ("bald eagle", "🦅"),
+            ("Chris Kratt", "🧑"),
+            ("Martin Kratt", "🧑"),
+            ("Aviva", "👩"),
+            ("Koki", "👩"),
+            ("Jimmy Z", "👨"),
+            ("creature power disc", "💿"),
+            ("tortuga", "🐢"),
+            ("monkey", "🐒"),
+            ("wolf", "🐺"),
+            ("dolphin", "🐬"),
+            ("penguin", "🐧"),
+            ("komodo dragon", "🦎"),
+            ("firefly", "✨"),
+            ("rhino", "🦏"),
+            ("orca", "🐋"),
+            ("hummingbird", "🐦"),
+            ("beaver", "🦫"),
+            ("draco lizard", "🦎"),
+            ("mantis shrimp", "🦐"),
+            ("blue heron", "🦩"),
+        ],
+    },
+]
 
 PREDATOR_ROUNDS = [
     {
@@ -2139,6 +2295,12 @@ def category_search_hint(rnd: dict, mode: str) -> str:
         "bioluminescent life": "bioluminescence",
         "peculiar animals": "wildlife",
         "extreme survivors": "wildlife",
+        "country flags": "country flag",
+        "animal habitats": "habitat",
+        "pokémon characters": "pokemon",
+        "pokemon characters": "pokemon",
+        "pete the cat": "children book",
+        "wild kratts": "wildlife",
     }
     return overrides.get(title, title)
 
@@ -2195,6 +2357,8 @@ def pixabay_category(rnd_id: str, mode: str, hint: str) -> str | None:
     if "weather" in rid or "volcano" in rid:
         return "science"
     if any(token in rid for token in ("shipwreck", "pirate", "explorer", "wonder", "lost-cit")):
+        return "science"
+    if "flag" in rid or "pokemon" in rid:
         return "science"
     if "clothes" in rid or "cloth" in rid:
         return "fashion"
@@ -2265,12 +2429,23 @@ def write_manifest() -> Path:
 def write_remote_manifest() -> Path:
     CONTENT_DIR.mkdir(parents=True, exist_ok=True)
     root = Path(__file__).resolve().parents[1]
-    content_dir = root / "catalog"
-    content_dir.mkdir(parents=True, exist_ok=True)
+    catalog_dir = root / "catalog"
+    catalog_dir.mkdir(parents=True, exist_ok=True)
+    path = catalog_dir / "manifest-remote.json"
+
+    existing_rounds: list[dict] = []
+    if path.exists():
+        try:
+            existing_payload = json.loads(path.read_text())
+            existing_rounds = existing_payload.get("rounds", [])
+        except json.JSONDecodeError:
+            existing_rounds = []
+
+    existing_ids = {entry["id"] for entry in existing_rounds}
     catalog = [(rnd, "standard", "Classic Hunts") for rnd in REMOTE_ROUNDS]
-    rounds = build_round_entries(catalog, seed_offset=10_000)
-    payload = {"rounds": rounds}
-    path = content_dir / "manifest-remote.json"
+    new_rounds = build_round_entries(catalog, seed_offset=10_000)
+    appended = [entry for entry in new_rounds if entry["id"] not in existing_ids]
+    payload = {"rounds": existing_rounds + appended}
     path.write_text(json.dumps(payload, indent=2) + "\n")
     return path
 
@@ -2285,10 +2460,9 @@ def main() -> None:
     args = parser.parse_args()
 
     if args.remote_only:
-        if not REMOTE_ROUNDS:
-            print("REMOTE_ROUNDS is empty — add hunts to scripts/generate_markers.py first.")
         path = write_remote_manifest()
-        print(f"wrote {path} ({len(REMOTE_ROUNDS)} round template(s))")
+        total = len(json.loads(path.read_text()).get("rounds", []))
+        print(f"wrote {path} ({len(REMOTE_ROUNDS)} new template(s), {total} total remote round(s))")
         return
 
     MARKER_DIR.mkdir(parents=True, exist_ok=True)
