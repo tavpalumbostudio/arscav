@@ -1,0 +1,2495 @@
+{
+  "rounds": [
+    {
+      "id": "volcanoes-around-the-world",
+      "title": "Volcanoes Around the World",
+      "targets": [
+        "mount-fuji",
+        "vesuvius",
+        "krakatoa",
+        "kilauea"
+      ],
+      "objects": [
+        {
+          "id": "mount-fuji",
+          "name": "Mount Fuji",
+          "emoji": "\ud83d\uddfb",
+          "markerId": "marker-07",
+          "searchQuery": "Mount Fuji volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "caldera",
+          "name": "caldera",
+          "emoji": "\ud83d\udd73\ufe0f",
+          "markerId": "marker-09",
+          "searchQuery": "caldera volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mauna-loa",
+          "name": "Mauna Loa",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-23",
+          "searchQuery": "Mauna Loa volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "popocatepetl",
+          "name": "Popocatepetl",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-05",
+          "searchQuery": "Popocatepetl volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "volcanic-crater",
+          "name": "volcanic crater",
+          "emoji": "\ud83d\udd73\ufe0f",
+          "markerId": "marker-12",
+          "searchQuery": "volcanic crater volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "magma",
+          "name": "magma",
+          "emoji": "\ud83d\udd25",
+          "markerId": "marker-16",
+          "searchQuery": "magma volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "cotopaxi",
+          "name": "Cotopaxi",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-04",
+          "searchQuery": "Cotopaxi volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "hawaii",
+          "name": "Hawaii",
+          "emoji": "\ud83c\udfdd\ufe0f",
+          "markerId": "marker-14",
+          "searchQuery": "Hawaii volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "lava-flow",
+          "name": "lava flow",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-18",
+          "searchQuery": "lava flow volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "kilauea",
+          "name": "Kilauea",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-01",
+          "searchQuery": "Kilauea volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "geyser",
+          "name": "geyser",
+          "emoji": "\u2668\ufe0f",
+          "markerId": "marker-20",
+          "searchQuery": "geyser volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mount-nyiragongo",
+          "name": "Mount Nyiragongo",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-19",
+          "searchQuery": "Mount Nyiragongo volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mount-kilimanjaro",
+          "name": "Mount Kilimanjaro",
+          "emoji": "\ud83d\uddfb",
+          "markerId": "marker-21",
+          "searchQuery": "Mount Kilimanjaro volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "sakurajima",
+          "name": "Sakurajima",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-10",
+          "searchQuery": "Sakurajima volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "pompeii-ruins",
+          "name": "Pompeii ruins",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-24",
+          "searchQuery": "Pompeii ruins volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "krakatoa",
+          "name": "Krakatoa",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-11",
+          "searchQuery": "Krakatoa volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "eyjafjallajokull",
+          "name": "Eyjafjallajokull",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-03",
+          "searchQuery": "Eyjafjallajokull volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mount-etna",
+          "name": "Mount Etna",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-22",
+          "searchQuery": "Mount Etna volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "ash-cloud",
+          "name": "ash cloud",
+          "emoji": "\ud83c\udf2b\ufe0f",
+          "markerId": "marker-08",
+          "searchQuery": "ash cloud volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "yellowstone",
+          "name": "Yellowstone",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-17",
+          "searchQuery": "Yellowstone volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "vesuvius",
+          "name": "Vesuvius",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-06",
+          "searchQuery": "Vesuvius volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "volcanic-island",
+          "name": "volcanic island",
+          "emoji": "\ud83c\udfdd\ufe0f",
+          "markerId": "marker-15",
+          "searchQuery": "volcanic island volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mount-rainier",
+          "name": "Mount Rainier",
+          "emoji": "\ud83d\uddfb",
+          "markerId": "marker-02",
+          "searchQuery": "Mount Rainier volcano photo",
+          "searchCategory": "volcano"
+        },
+        {
+          "id": "mount-st-helens",
+          "name": "Mount St Helens",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-13",
+          "searchQuery": "Mount St Helens volcano photo",
+          "searchCategory": "volcano"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "volcano",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "deep-sea-creatures",
+      "title": "Deep Sea Creatures",
+      "targets": [
+        "anglerfish",
+        "blobfish",
+        "vampire-squid",
+        "gulper-eel"
+      ],
+      "objects": [
+        {
+          "id": "tripod-fish",
+          "name": "tripod fish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-08",
+          "searchQuery": "tripod fish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "hydrothermal-vent",
+          "name": "hydrothermal vent",
+          "emoji": "\u2668\ufe0f",
+          "markerId": "marker-06",
+          "searchQuery": "hydrothermal vent deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "frilled-shark",
+          "name": "frilled shark",
+          "emoji": "\ud83e\udd88",
+          "markerId": "marker-24",
+          "searchQuery": "frilled shark deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "sea-angel",
+          "name": "sea angel",
+          "emoji": "\ud83e\udebd",
+          "markerId": "marker-14",
+          "searchQuery": "sea angel deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "fangtooth",
+          "name": "fangtooth",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-15",
+          "searchQuery": "fangtooth deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "dumbo-octopus",
+          "name": "dumbo octopus",
+          "emoji": "\ud83d\udc19",
+          "markerId": "marker-18",
+          "searchQuery": "dumbo octopus deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "viperfish",
+          "name": "viperfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-12",
+          "searchQuery": "viperfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "sea-pig",
+          "name": "sea pig",
+          "emoji": "\ud83d\udc37",
+          "markerId": "marker-03",
+          "searchQuery": "sea pig deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "dragonfish",
+          "name": "dragonfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-16",
+          "searchQuery": "dragonfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "barreleye-fish",
+          "name": "barreleye fish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-07",
+          "searchQuery": "barreleye fish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "deep-sea-jellyfish",
+          "name": "deep sea jellyfish",
+          "emoji": "\ud83e\udebc",
+          "markerId": "marker-23",
+          "searchQuery": "deep sea jellyfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "yeti-crab",
+          "name": "yeti crab",
+          "emoji": "\ud83e\udd80",
+          "markerId": "marker-02",
+          "searchQuery": "yeti crab deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "snailfish",
+          "name": "snailfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-09",
+          "searchQuery": "snailfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "black-swallower",
+          "name": "black swallower",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-21",
+          "searchQuery": "black swallower deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "vampire-squid",
+          "name": "vampire squid",
+          "emoji": "\ud83e\udd91",
+          "markerId": "marker-04",
+          "searchQuery": "vampire squid deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "lanternfish",
+          "name": "lanternfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-17",
+          "searchQuery": "lanternfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "comb-jelly",
+          "name": "comb jelly",
+          "emoji": "\ud83e\udebc",
+          "markerId": "marker-22",
+          "searchQuery": "comb jelly deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "stoplight-loosejaw",
+          "name": "stoplight loosejaw",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-19",
+          "searchQuery": "stoplight loosejaw deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "gulper-eel",
+          "name": "gulper eel",
+          "emoji": "\ud83d\udc0d",
+          "markerId": "marker-05",
+          "searchQuery": "gulper eel deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "hatchetfish",
+          "name": "hatchetfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-20",
+          "searchQuery": "hatchetfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "anglerfish",
+          "name": "anglerfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-11",
+          "searchQuery": "anglerfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "blobfish",
+          "name": "blobfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-01",
+          "searchQuery": "blobfish deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "giant-isopod",
+          "name": "giant isopod",
+          "emoji": "\ud83e\udeb2",
+          "markerId": "marker-13",
+          "searchQuery": "giant isopod deep sea photo",
+          "searchCategory": "deep sea"
+        },
+        {
+          "id": "black-smoker-worm",
+          "name": "black smoker worm",
+          "emoji": "\ud83e\udeb1",
+          "markerId": "marker-10",
+          "searchQuery": "black smoker worm deep sea photo",
+          "searchCategory": "deep sea"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "deep sea"
+    },
+    {
+      "id": "carnivorous-plants",
+      "title": "Carnivorous Plants",
+      "targets": [
+        "venus-flytrap",
+        "pitcher-plant",
+        "sundew",
+        "bladderwort"
+      ],
+      "objects": [
+        {
+          "id": "monkey-cup",
+          "name": "monkey cup",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-19",
+          "searchQuery": "monkey cup carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "ant",
+          "name": "ant",
+          "emoji": "\ud83d\udc1c",
+          "markerId": "marker-10",
+          "searchQuery": "ant carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "spider",
+          "name": "spider",
+          "emoji": "\ud83d\udd77\ufe0f",
+          "markerId": "marker-22",
+          "searchQuery": "spider carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "tropical-pitcher",
+          "name": "tropical pitcher",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-18",
+          "searchQuery": "tropical pitcher carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "venus-flytrap",
+          "name": "venus flytrap",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-11",
+          "searchQuery": "venus flytrap carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "mosquito",
+          "name": "mosquito",
+          "emoji": "\ud83e\udd9f",
+          "markerId": "marker-12",
+          "searchQuery": "mosquito carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "butterwort",
+          "name": "butterwort",
+          "emoji": "\ud83c\udf38",
+          "markerId": "marker-05",
+          "searchQuery": "butterwort carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "beetle",
+          "name": "beetle",
+          "emoji": "\ud83e\udeb2",
+          "markerId": "marker-23",
+          "searchQuery": "beetle carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "sticky-sundew",
+          "name": "sticky sundew",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-13",
+          "searchQuery": "sticky sundew carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "purple-pitcher",
+          "name": "purple pitcher",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-08",
+          "searchQuery": "purple pitcher carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "forked-sundew",
+          "name": "forked sundew",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-06",
+          "searchQuery": "forked sundew carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "pitfall-trap",
+          "name": "pitfall trap",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-15",
+          "searchQuery": "pitfall trap carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "cobra-lily",
+          "name": "cobra lily",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-20",
+          "searchQuery": "cobra lily carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "albany-pitcher",
+          "name": "albany pitcher",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-07",
+          "searchQuery": "albany pitcher carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "swamp-moss",
+          "name": "swamp moss",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-16",
+          "searchQuery": "swamp moss carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "fly",
+          "name": "fly",
+          "emoji": "\ud83e\udeb0",
+          "markerId": "marker-01",
+          "searchQuery": "fly carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "snap-trap",
+          "name": "snap trap",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-04",
+          "searchQuery": "snap trap carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "rainbow-plant",
+          "name": "rainbow plant",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-14",
+          "searchQuery": "rainbow plant carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "bladderwort",
+          "name": "bladderwort",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-03",
+          "searchQuery": "bladderwort carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "bladder-trap",
+          "name": "bladder trap",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-21",
+          "searchQuery": "bladder trap carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "sundew",
+          "name": "sundew",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-09",
+          "searchQuery": "sundew carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "pitcher-plant",
+          "name": "pitcher plant",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-02",
+          "searchQuery": "pitcher plant carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "waterwheel-plant",
+          "name": "waterwheel plant",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-17",
+          "searchQuery": "waterwheel plant carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        },
+        {
+          "id": "flypaper-trap",
+          "name": "flypaper trap",
+          "emoji": "\ud83e\udeb4",
+          "markerId": "marker-24",
+          "searchQuery": "flypaper trap carnivorous plant photo",
+          "searchCategory": "carnivorous plant"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "carnivorous plant",
+      "pixabayCategory": "nature"
+    },
+    {
+      "id": "living-fossils",
+      "title": "Living Fossils",
+      "targets": [
+        "coelacanth",
+        "horseshoe-crab",
+        "nautilus",
+        "tuatara"
+      ],
+      "objects": [
+        {
+          "id": "crocodile",
+          "name": "crocodile",
+          "emoji": "\ud83d\udc0a",
+          "markerId": "marker-07",
+          "searchQuery": "crocodile prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "horseshoe-crab",
+          "name": "horseshoe crab",
+          "emoji": "\ud83e\udd80",
+          "markerId": "marker-12",
+          "searchQuery": "horseshoe crab prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "alligator-gar",
+          "name": "alligator gar",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-05",
+          "searchQuery": "alligator gar prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "fossil-shell",
+          "name": "fossil shell",
+          "emoji": "\ud83d\udc1a",
+          "markerId": "marker-01",
+          "searchQuery": "fossil shell prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "petrified-wood",
+          "name": "petrified wood",
+          "emoji": "\ud83e\udeb5",
+          "markerId": "marker-06",
+          "searchQuery": "petrified wood prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "amber",
+          "name": "amber",
+          "emoji": "\ud83d\udfe1",
+          "markerId": "marker-24",
+          "searchQuery": "amber prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "lungfish",
+          "name": "lungfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-21",
+          "searchQuery": "lungfish prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "deep-time",
+          "name": "deep time",
+          "emoji": "\u23f3",
+          "markerId": "marker-22",
+          "searchQuery": "deep time prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "nautilus",
+          "name": "nautilus",
+          "emoji": "\ud83d\udc1a",
+          "markerId": "marker-11",
+          "searchQuery": "nautilus prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "chambered-nautilus",
+          "name": "chambered nautilus",
+          "emoji": "\ud83d\udc1a",
+          "markerId": "marker-15",
+          "searchQuery": "chambered nautilus prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "elephant-shrew",
+          "name": "elephant shrew",
+          "emoji": "\ud83d\udc2d",
+          "markerId": "marker-17",
+          "searchQuery": "elephant shrew prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "sturgeon",
+          "name": "sturgeon",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-19",
+          "searchQuery": "sturgeon prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "living-rock",
+          "name": "living rock",
+          "emoji": "\ud83e\udea8",
+          "markerId": "marker-02",
+          "searchQuery": "living rock prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "ammonite",
+          "name": "ammonite",
+          "emoji": "\ud83d\udc1a",
+          "markerId": "marker-08",
+          "searchQuery": "ammonite prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "sandhill-crane",
+          "name": "sandhill crane",
+          "emoji": "\ud83e\udda9",
+          "markerId": "marker-13",
+          "searchQuery": "sandhill crane prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "ginkgo-tree",
+          "name": "ginkgo tree",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-04",
+          "searchQuery": "ginkgo tree prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "primitive-fish",
+          "name": "primitive fish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-09",
+          "searchQuery": "primitive fish prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "trilobite",
+          "name": "trilobite",
+          "emoji": "\ud83e\udd82",
+          "markerId": "marker-20",
+          "searchQuery": "trilobite prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "fern",
+          "name": "fern",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-14",
+          "searchQuery": "fern prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "museum-fossil",
+          "name": "museum fossil",
+          "emoji": "\ud83e\uddb4",
+          "markerId": "marker-23",
+          "searchQuery": "museum fossil prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "coelacanth",
+          "name": "coelacanth",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-10",
+          "searchQuery": "coelacanth prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "tuatara",
+          "name": "tuatara",
+          "emoji": "\ud83e\udd8e",
+          "markerId": "marker-03",
+          "searchQuery": "tuatara prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "ancient-fern",
+          "name": "ancient fern",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-18",
+          "searchQuery": "ancient fern prehistoric photo",
+          "searchCategory": "prehistoric"
+        },
+        {
+          "id": "prehistoric-fern",
+          "name": "prehistoric fern",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-16",
+          "searchQuery": "prehistoric fern prehistoric photo",
+          "searchCategory": "prehistoric"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "prehistoric"
+    },
+    {
+      "id": "bioluminescent-life",
+      "title": "Bioluminescent Life",
+      "targets": [
+        "firefly",
+        "glow-worm",
+        "firefly-squid",
+        "bioluminescent-jellyfish"
+      ],
+      "objects": [
+        {
+          "id": "flashlight-fish",
+          "name": "flashlight fish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-10",
+          "searchQuery": "flashlight fish bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "mycena-mushroom",
+          "name": "mycena mushroom",
+          "emoji": "\ud83c\udf44",
+          "markerId": "marker-06",
+          "searchQuery": "mycena mushroom bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "glow-plankton",
+          "name": "glow plankton",
+          "emoji": "\u2728",
+          "markerId": "marker-13",
+          "searchQuery": "glow plankton bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "dinoflagellate",
+          "name": "dinoflagellate",
+          "emoji": "\ud83e\udda0",
+          "markerId": "marker-18",
+          "searchQuery": "dinoflagellate bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "railroad-worm",
+          "name": "railroad worm",
+          "emoji": "\ud83e\udeb1",
+          "markerId": "marker-14",
+          "searchQuery": "railroad worm bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "glowing-coral",
+          "name": "glowing coral",
+          "emoji": "\ud83e\udeb8",
+          "markerId": "marker-22",
+          "searchQuery": "glowing coral bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "starlight",
+          "name": "starlight",
+          "emoji": "\u2b50",
+          "markerId": "marker-21",
+          "searchQuery": "starlight bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "firefly",
+          "name": "firefly",
+          "emoji": "\u2728",
+          "markerId": "marker-02",
+          "searchQuery": "firefly bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "sea-sparkle",
+          "name": "sea sparkle",
+          "emoji": "\u2728",
+          "markerId": "marker-20",
+          "searchQuery": "sea sparkle bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "anglerfish-lure",
+          "name": "anglerfish lure",
+          "emoji": "\ud83d\udca1",
+          "markerId": "marker-15",
+          "searchQuery": "anglerfish lure bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "glow-worm",
+          "name": "glow worm",
+          "emoji": "\ud83e\udeb1",
+          "markerId": "marker-11",
+          "searchQuery": "glow worm bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "click-beetle",
+          "name": "click beetle",
+          "emoji": "\ud83e\udeb2",
+          "markerId": "marker-01",
+          "searchQuery": "click beetle bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "night-forest",
+          "name": "night forest",
+          "emoji": "\ud83c\udf32",
+          "markerId": "marker-09",
+          "searchQuery": "night forest bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "deep-sea-shrimp",
+          "name": "deep sea shrimp",
+          "emoji": "\ud83e\udd90",
+          "markerId": "marker-23",
+          "searchQuery": "deep sea shrimp bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "lanternfish",
+          "name": "lanternfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-16",
+          "searchQuery": "lanternfish bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "glow-snail",
+          "name": "glow snail",
+          "emoji": "\ud83d\udc0c",
+          "markerId": "marker-19",
+          "searchQuery": "glow snail bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "bioluminescent-algae",
+          "name": "bioluminescent algae",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-07",
+          "searchQuery": "bioluminescent algae bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "night-sea",
+          "name": "night sea",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-05",
+          "searchQuery": "night sea bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "glow-cave",
+          "name": "glow cave",
+          "emoji": "\ud83d\udd73\ufe0f",
+          "markerId": "marker-04",
+          "searchQuery": "glow cave bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "firefly-squid",
+          "name": "firefly squid",
+          "emoji": "\ud83e\udd91",
+          "markerId": "marker-12",
+          "searchQuery": "firefly squid bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "foxfire-fungus",
+          "name": "foxfire fungus",
+          "emoji": "\ud83c\udf44",
+          "markerId": "marker-03",
+          "searchQuery": "foxfire fungus bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "comb-jelly",
+          "name": "comb jelly",
+          "emoji": "\ud83e\udebc",
+          "markerId": "marker-17",
+          "searchQuery": "comb jelly bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "moon-jelly",
+          "name": "moon jelly",
+          "emoji": "\ud83e\udebc",
+          "markerId": "marker-24",
+          "searchQuery": "moon jelly bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        },
+        {
+          "id": "bioluminescent-jellyfish",
+          "name": "bioluminescent jellyfish",
+          "emoji": "\ud83e\udebc",
+          "markerId": "marker-08",
+          "searchQuery": "bioluminescent jellyfish bioluminescence photo",
+          "searchCategory": "bioluminescence"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "bioluminescence"
+    },
+    {
+      "id": "peculiar-animals",
+      "title": "Peculiar Animals",
+      "targets": [
+        "axolotl",
+        "platypus",
+        "pangolin",
+        "aye-aye"
+      ],
+      "objects": [
+        {
+          "id": "echidna",
+          "name": "echidna",
+          "emoji": "\ud83e\udd94",
+          "markerId": "marker-16",
+          "searchQuery": "echidna wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "okapi",
+          "name": "okapi",
+          "emoji": "\ud83e\udd93",
+          "markerId": "marker-02",
+          "searchQuery": "okapi wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "numbat",
+          "name": "numbat",
+          "emoji": "\ud83d\udc1c",
+          "markerId": "marker-21",
+          "searchQuery": "numbat wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "markhor",
+          "name": "markhor",
+          "emoji": "\ud83d\udc10",
+          "markerId": "marker-07",
+          "searchQuery": "markhor wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "sun-bear",
+          "name": "sun bear",
+          "emoji": "\ud83d\udc3b",
+          "markerId": "marker-06",
+          "searchQuery": "sun bear wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "kakapo",
+          "name": "kakapo",
+          "emoji": "\ud83e\udd9c",
+          "markerId": "marker-19",
+          "searchQuery": "kakapo wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "tardigrade",
+          "name": "tardigrade",
+          "emoji": "\ud83e\udda0",
+          "markerId": "marker-01",
+          "searchQuery": "tardigrade wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "secretary-bird",
+          "name": "secretary bird",
+          "emoji": "\ud83e\udd85",
+          "markerId": "marker-14",
+          "searchQuery": "secretary bird wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "shoebill",
+          "name": "shoebill",
+          "emoji": "\ud83e\udda9",
+          "markerId": "marker-23",
+          "searchQuery": "shoebill wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "star-nosed-mole",
+          "name": "star-nosed mole",
+          "emoji": "\ud83d\udc2d",
+          "markerId": "marker-10",
+          "searchQuery": "star-nosed mole wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "platypus",
+          "name": "platypus",
+          "emoji": "\ud83e\uddab",
+          "markerId": "marker-08",
+          "searchQuery": "platypus wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "tapir",
+          "name": "tapir",
+          "emoji": "\ud83d\udc17",
+          "markerId": "marker-17",
+          "searchQuery": "tapir wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "flying-lemur",
+          "name": "flying lemur",
+          "emoji": "\ud83d\udc3f\ufe0f",
+          "markerId": "marker-11",
+          "searchQuery": "flying lemur wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "narwhal",
+          "name": "narwhal",
+          "emoji": "\ud83e\udd84",
+          "markerId": "marker-22",
+          "searchQuery": "narwhal wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "proboscis-monkey",
+          "name": "proboscis monkey",
+          "emoji": "\ud83d\udc12",
+          "markerId": "marker-13",
+          "searchQuery": "proboscis monkey wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "leafy-seadragon",
+          "name": "leafy seadragon",
+          "emoji": "\ud83d\udc09",
+          "markerId": "marker-24",
+          "searchQuery": "leafy seadragon wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "aye-aye",
+          "name": "aye-aye",
+          "emoji": "\ud83d\udc12",
+          "markerId": "marker-12",
+          "searchQuery": "aye-aye wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "axolotl",
+          "name": "axolotl",
+          "emoji": "\ud83e\udd8e",
+          "markerId": "marker-09",
+          "searchQuery": "axolotl wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "mudskipper",
+          "name": "mudskipper",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-05",
+          "searchQuery": "mudskipper wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "pangolin",
+          "name": "pangolin",
+          "emoji": "\ud83e\udd94",
+          "markerId": "marker-03",
+          "searchQuery": "pangolin wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "mantis-shrimp",
+          "name": "mantis shrimp",
+          "emoji": "\ud83e\udd90",
+          "markerId": "marker-04",
+          "searchQuery": "mantis shrimp wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "blobfish",
+          "name": "blobfish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-20",
+          "searchQuery": "blobfish wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "saiga-antelope",
+          "name": "saiga antelope",
+          "emoji": "\ud83e\udd8c",
+          "markerId": "marker-18",
+          "searchQuery": "saiga antelope wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "spider-crab",
+          "name": "spider crab",
+          "emoji": "\ud83e\udd80",
+          "markerId": "marker-15",
+          "searchQuery": "spider crab wildlife photo",
+          "searchCategory": "wildlife"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "wildlife"
+    },
+    {
+      "id": "extreme-survivors",
+      "title": "Extreme Survivors",
+      "targets": [
+        "tardigrade",
+        "camel",
+        "cactus",
+        "polar-bear"
+      ],
+      "objects": [
+        {
+          "id": "deep-sea-worm",
+          "name": "deep sea worm",
+          "emoji": "\ud83e\udeb1",
+          "markerId": "marker-12",
+          "searchQuery": "deep sea worm wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "polar-bear",
+          "name": "polar bear",
+          "emoji": "\ud83d\udc3b\u200d\u2744\ufe0f",
+          "markerId": "marker-07",
+          "searchQuery": "polar bear wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "komodo-dragon",
+          "name": "komodo dragon",
+          "emoji": "\ud83e\udd8e",
+          "markerId": "marker-10",
+          "searchQuery": "komodo dragon wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "desert-tortoise",
+          "name": "desert tortoise",
+          "emoji": "\ud83d\udc22",
+          "markerId": "marker-02",
+          "searchQuery": "desert tortoise wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "hot-spring-algae",
+          "name": "hot spring algae",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-11",
+          "searchQuery": "hot spring algae wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "desert-sun",
+          "name": "desert sun",
+          "emoji": "\u2600\ufe0f",
+          "markerId": "marker-19",
+          "searchQuery": "desert sun wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "blind-cave-fish",
+          "name": "blind cave fish",
+          "emoji": "\ud83d\udc1f",
+          "markerId": "marker-23",
+          "searchQuery": "blind cave fish wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "salt-flat-shrimp",
+          "name": "salt flat shrimp",
+          "emoji": "\ud83e\udd90",
+          "markerId": "marker-20",
+          "searchQuery": "salt flat shrimp wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "vulture",
+          "name": "vulture",
+          "emoji": "\ud83e\udd85",
+          "markerId": "marker-06",
+          "searchQuery": "vulture wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "tardigrade",
+          "name": "tardigrade",
+          "emoji": "\ud83e\udda0",
+          "markerId": "marker-09",
+          "searchQuery": "tardigrade wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "cockroach",
+          "name": "cockroach",
+          "emoji": "\ud83e\udeb3",
+          "markerId": "marker-22",
+          "searchQuery": "cockroach wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "crocodile",
+          "name": "crocodile",
+          "emoji": "\ud83d\udc0a",
+          "markerId": "marker-15",
+          "searchQuery": "crocodile wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "volcano-rim",
+          "name": "volcano rim",
+          "emoji": "\ud83c\udf0b",
+          "markerId": "marker-04",
+          "searchQuery": "volcano rim wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "deep-freeze",
+          "name": "deep freeze",
+          "emoji": "\ud83e\uddca",
+          "markerId": "marker-17",
+          "searchQuery": "deep freeze wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "alpine-ibex",
+          "name": "alpine ibex",
+          "emoji": "\ud83d\udc10",
+          "markerId": "marker-13",
+          "searchQuery": "alpine ibex wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "camel",
+          "name": "camel",
+          "emoji": "\ud83d\udc2b",
+          "markerId": "marker-05",
+          "searchQuery": "camel wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "cactus",
+          "name": "cactus",
+          "emoji": "\ud83c\udf35",
+          "markerId": "marker-01",
+          "searchQuery": "cactus wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "emperor-penguin",
+          "name": "emperor penguin",
+          "emoji": "\ud83d\udc27",
+          "markerId": "marker-16",
+          "searchQuery": "emperor penguin wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "ocean-trench",
+          "name": "ocean trench",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-18",
+          "searchQuery": "ocean trench wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "ice-worm",
+          "name": "ice worm",
+          "emoji": "\ud83e\udeb1",
+          "markerId": "marker-03",
+          "searchQuery": "ice worm wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "arctic-tern",
+          "name": "arctic tern",
+          "emoji": "\ud83d\udc26",
+          "markerId": "marker-14",
+          "searchQuery": "arctic tern wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "lichen",
+          "name": "lichen",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-24",
+          "searchQuery": "lichen wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "volcano-bacteria",
+          "name": "volcano bacteria",
+          "emoji": "\ud83e\udda0",
+          "markerId": "marker-21",
+          "searchQuery": "volcano bacteria wildlife photo",
+          "searchCategory": "wildlife"
+        },
+        {
+          "id": "mangrove-tree",
+          "name": "mangrove tree",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-08",
+          "searchQuery": "mangrove tree wildlife photo",
+          "searchCategory": "wildlife"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "wildlife"
+    },
+    {
+      "id": "infamous-shipwrecks",
+      "title": "Infamous Shipwrecks",
+      "targets": [
+        "titanic",
+        "lusitania",
+        "mary-rose",
+        "vasa"
+      ],
+      "objects": [
+        {
+          "id": "lusitania",
+          "name": "Lusitania",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-02",
+          "searchQuery": "Lusitania shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "shipwreck-diver",
+          "name": "shipwreck diver",
+          "emoji": "\ud83e\udd3f",
+          "markerId": "marker-16",
+          "searchQuery": "shipwreck diver shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "andrea-doria",
+          "name": "Andrea Doria",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-07",
+          "searchQuery": "Andrea Doria shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "storm-waves",
+          "name": "storm waves",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-11",
+          "searchQuery": "storm waves shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "coral-reef",
+          "name": "coral reef",
+          "emoji": "\ud83e\udeb8",
+          "markerId": "marker-06",
+          "searchQuery": "coral reef shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "ss-edmund-fitzgerald",
+          "name": "SS Edmund Fitzgerald",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-24",
+          "searchQuery": "SS Edmund Fitzgerald shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "mary-rose",
+          "name": "Mary Rose",
+          "emoji": "\u26f5",
+          "markerId": "marker-01",
+          "searchQuery": "Mary Rose shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "barnacles",
+          "name": "barnacles",
+          "emoji": "\ud83e\udd80",
+          "markerId": "marker-03",
+          "searchQuery": "barnacles shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "diving-helmet",
+          "name": "diving helmet",
+          "emoji": "\ud83e\udd3f",
+          "markerId": "marker-22",
+          "searchQuery": "diving helmet shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "maritime-museum",
+          "name": "maritime museum",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-09",
+          "searchQuery": "maritime museum shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "anchor",
+          "name": "anchor",
+          "emoji": "\u2693",
+          "markerId": "marker-17",
+          "searchQuery": "anchor shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "uss-arizona",
+          "name": "USS Arizona",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-19",
+          "searchQuery": "USS Arizona shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "queen-anne's-revenge",
+          "name": "Queen Anne's Revenge",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-14",
+          "searchQuery": "Queen Anne's Revenge shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "ocean-floor",
+          "name": "ocean floor",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-21",
+          "searchQuery": "ocean floor shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "sea-map",
+          "name": "sea map",
+          "emoji": "\ud83d\uddfa\ufe0f",
+          "markerId": "marker-05",
+          "searchQuery": "sea map shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "whydah-gally",
+          "name": "Whydah Gally",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-15",
+          "searchQuery": "Whydah Gally shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "vasa",
+          "name": "Vasa",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-10",
+          "searchQuery": "Vasa shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "ship-bell",
+          "name": "ship bell",
+          "emoji": "\ud83d\udd14",
+          "markerId": "marker-20",
+          "searchQuery": "ship bell shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "submarine-wreck",
+          "name": "submarine wreck",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-18",
+          "searchQuery": "submarine wreck shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "titanic",
+          "name": "Titanic",
+          "emoji": "\ud83d\udea2",
+          "markerId": "marker-08",
+          "searchQuery": "Titanic shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "lifeboat",
+          "name": "lifeboat",
+          "emoji": "\ud83d\udedf",
+          "markerId": "marker-13",
+          "searchQuery": "lifeboat shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "compass",
+          "name": "compass",
+          "emoji": "\ud83e\udded",
+          "markerId": "marker-23",
+          "searchQuery": "compass shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "treasure-chest",
+          "name": "treasure chest",
+          "emoji": "\ud83e\uddf0",
+          "markerId": "marker-12",
+          "searchQuery": "treasure chest shipwreck photo",
+          "searchCategory": "shipwreck"
+        },
+        {
+          "id": "hms-victory",
+          "name": "HMS Victory",
+          "emoji": "\u2693",
+          "markerId": "marker-04",
+          "searchQuery": "HMS Victory shipwreck photo",
+          "searchCategory": "shipwreck"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "shipwreck",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "famous-pirates",
+      "title": "Famous Pirates",
+      "targets": [
+        "blackbeard",
+        "anne-bonny",
+        "captain-kidd",
+        "barbarossa"
+      ],
+      "objects": [
+        {
+          "id": "treasure-map",
+          "name": "treasure map",
+          "emoji": "\ud83d\uddfa\ufe0f",
+          "markerId": "marker-12",
+          "searchQuery": "treasure map pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "henry-morgan",
+          "name": "Henry Morgan",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-01",
+          "searchQuery": "Henry Morgan pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "spyglass",
+          "name": "spyglass",
+          "emoji": "\ud83d\udd2d",
+          "markerId": "marker-06",
+          "searchQuery": "spyglass pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "parrot",
+          "name": "parrot",
+          "emoji": "\ud83e\udd9c",
+          "markerId": "marker-13",
+          "searchQuery": "parrot pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "cannon",
+          "name": "cannon",
+          "emoji": "\ud83d\udca3",
+          "markerId": "marker-09",
+          "searchQuery": "cannon pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "doubloon",
+          "name": "doubloon",
+          "emoji": "\ud83e\ude99",
+          "markerId": "marker-16",
+          "searchQuery": "doubloon pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "blackbeard",
+          "name": "Blackbeard",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-03",
+          "searchQuery": "Blackbeard pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "rum-barrel",
+          "name": "rum barrel",
+          "emoji": "\ud83d\udee2\ufe0f",
+          "markerId": "marker-24",
+          "searchQuery": "rum barrel pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "jolly-roger",
+          "name": "Jolly Roger",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-21",
+          "searchQuery": "Jolly Roger pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "tortuga",
+          "name": "Tortuga",
+          "emoji": "\ud83c\udfdd\ufe0f",
+          "markerId": "marker-20",
+          "searchQuery": "Tortuga pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "grace-o'malley",
+          "name": "Grace O'Malley",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-04",
+          "searchQuery": "Grace O'Malley pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "crow's-nest",
+          "name": "crow's nest",
+          "emoji": "\ud83e\udeba",
+          "markerId": "marker-18",
+          "searchQuery": "crow's nest pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "captain-kidd",
+          "name": "Captain Kidd",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-11",
+          "searchQuery": "Captain Kidd pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "calico-jack",
+          "name": "Calico Jack",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-15",
+          "searchQuery": "Calico Jack pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "caribbean-sea",
+          "name": "Caribbean sea",
+          "emoji": "\ud83c\udf34",
+          "markerId": "marker-07",
+          "searchQuery": "Caribbean sea pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "pirate-flag",
+          "name": "pirate flag",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-23",
+          "searchQuery": "pirate flag pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "pirate-ship",
+          "name": "pirate ship",
+          "emoji": "\u26f5",
+          "markerId": "marker-14",
+          "searchQuery": "pirate ship pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "anne-bonny",
+          "name": "Anne Bonny",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-10",
+          "searchQuery": "Anne Bonny pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "mary-read",
+          "name": "Mary Read",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-22",
+          "searchQuery": "Mary Read pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "barbarossa",
+          "name": "Barbarossa",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-05",
+          "searchQuery": "Barbarossa pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "cutlass",
+          "name": "cutlass",
+          "emoji": "\u2694\ufe0f",
+          "markerId": "marker-02",
+          "searchQuery": "cutlass pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "nassau",
+          "name": "Nassau",
+          "emoji": "\ud83c\udfdd\ufe0f",
+          "markerId": "marker-08",
+          "searchQuery": "Nassau pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "ching-shih",
+          "name": "Ching Shih",
+          "emoji": "\ud83c\udff4\u200d\u2620\ufe0f",
+          "markerId": "marker-19",
+          "searchQuery": "Ching Shih pirate photo",
+          "searchCategory": "pirate"
+        },
+        {
+          "id": "plank",
+          "name": "plank",
+          "emoji": "\ud83e\udeb5",
+          "markerId": "marker-17",
+          "searchQuery": "plank pirate photo",
+          "searchCategory": "pirate"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "pirate",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "legendary-explorers",
+      "title": "Legendary Explorers",
+      "targets": [
+        "magellan",
+        "columbus",
+        "shackleton",
+        "amelia-earhart"
+      ],
+      "objects": [
+        {
+          "id": "shackleton",
+          "name": "Shackleton",
+          "emoji": "\ud83d\udc27",
+          "markerId": "marker-01",
+          "searchQuery": "Shackleton explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "mountain-peak",
+          "name": "mountain peak",
+          "emoji": "\ud83c\udfd4\ufe0f",
+          "markerId": "marker-21",
+          "searchQuery": "mountain peak explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "roald-amundsen",
+          "name": "Roald Amundsen",
+          "emoji": "\ud83e\uddca",
+          "markerId": "marker-02",
+          "searchQuery": "Roald Amundsen explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "sailing-ship",
+          "name": "sailing ship",
+          "emoji": "\u26f5",
+          "markerId": "marker-16",
+          "searchQuery": "sailing ship explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "sled-dogs",
+          "name": "sled dogs",
+          "emoji": "\ud83d\udc15",
+          "markerId": "marker-05",
+          "searchQuery": "sled dogs explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "explorer-journal",
+          "name": "explorer journal",
+          "emoji": "\ud83d\udcd3",
+          "markerId": "marker-17",
+          "searchQuery": "explorer journal explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "desert-caravan",
+          "name": "desert caravan",
+          "emoji": "\ud83d\udc2b",
+          "markerId": "marker-23",
+          "searchQuery": "desert caravan explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "compass",
+          "name": "compass",
+          "emoji": "\ud83e\udded",
+          "markerId": "marker-19",
+          "searchQuery": "compass explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "moon-landing",
+          "name": "moon landing",
+          "emoji": "\ud83c\udf19",
+          "markerId": "marker-11",
+          "searchQuery": "moon landing explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "columbus",
+          "name": "Columbus",
+          "emoji": "\u26f5",
+          "markerId": "marker-04",
+          "searchQuery": "Columbus explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "lewis-and-clark",
+          "name": "Lewis and Clark",
+          "emoji": "\ud83d\udef6",
+          "markerId": "marker-14",
+          "searchQuery": "Lewis and Clark explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "expedition-tent",
+          "name": "expedition tent",
+          "emoji": "\u26fa",
+          "markerId": "marker-24",
+          "searchQuery": "expedition tent explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "expedition-plane",
+          "name": "expedition plane",
+          "emoji": "\u2708\ufe0f",
+          "markerId": "marker-12",
+          "searchQuery": "expedition plane explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "north-pole",
+          "name": "North Pole",
+          "emoji": "\ud83e\uddca",
+          "markerId": "marker-09",
+          "searchQuery": "North Pole explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "marco-polo",
+          "name": "Marco Polo",
+          "emoji": "\ud83d\udc2b",
+          "markerId": "marker-18",
+          "searchQuery": "Marco Polo explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "neil-armstrong",
+          "name": "Neil Armstrong",
+          "emoji": "\ud83d\ude80",
+          "markerId": "marker-08",
+          "searchQuery": "Neil Armstrong explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "amelia-earhart",
+          "name": "Amelia Earhart",
+          "emoji": "\u2708\ufe0f",
+          "markerId": "marker-06",
+          "searchQuery": "Amelia Earhart explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "sacagawea",
+          "name": "Sacagawea",
+          "emoji": "\ud83e\uddac",
+          "markerId": "marker-03",
+          "searchQuery": "Sacagawea explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "sextant",
+          "name": "sextant",
+          "emoji": "\ud83d\udcd0",
+          "markerId": "marker-20",
+          "searchQuery": "sextant explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "magellan",
+          "name": "Magellan",
+          "emoji": "\ud83e\udded",
+          "markerId": "marker-10",
+          "searchQuery": "Magellan explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "jacques-cousteau",
+          "name": "Jacques Cousteau",
+          "emoji": "\ud83e\udd3f",
+          "markerId": "marker-13",
+          "searchQuery": "Jacques Cousteau explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "telescope",
+          "name": "telescope",
+          "emoji": "\ud83d\udd2d",
+          "markerId": "marker-07",
+          "searchQuery": "telescope explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "expedition-map",
+          "name": "expedition map",
+          "emoji": "\ud83d\uddfa\ufe0f",
+          "markerId": "marker-15",
+          "searchQuery": "expedition map explorer photo",
+          "searchCategory": "explorer"
+        },
+        {
+          "id": "south-pole",
+          "name": "South Pole",
+          "emoji": "\ud83d\udc27",
+          "markerId": "marker-22",
+          "searchQuery": "South Pole explorer photo",
+          "searchCategory": "explorer"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "explorer",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "ancient-wonders",
+      "title": "Ancient Wonders",
+      "targets": [
+        "great-pyramid",
+        "colosseum",
+        "stonehenge",
+        "great-wall"
+      ],
+      "objects": [
+        {
+          "id": "acropolis",
+          "name": "Acropolis",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-14",
+          "searchQuery": "Acropolis ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "stonehenge",
+          "name": "Stonehenge",
+          "emoji": "\ud83e\udea8",
+          "markerId": "marker-06",
+          "searchQuery": "Stonehenge ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "angkor-wat",
+          "name": "Angkor Wat",
+          "emoji": "\ud83d\uded5",
+          "markerId": "marker-03",
+          "searchQuery": "Angkor Wat ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "petra",
+          "name": "Petra",
+          "emoji": "\ud83c\udfdc\ufe0f",
+          "markerId": "marker-19",
+          "searchQuery": "Petra ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "chichen-itza",
+          "name": "Chichen Itza",
+          "emoji": "\ud83d\uded5",
+          "markerId": "marker-23",
+          "searchQuery": "Chichen Itza ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "mosaic-floor",
+          "name": "mosaic floor",
+          "emoji": "\ud83c\udfa8",
+          "markerId": "marker-15",
+          "searchQuery": "mosaic floor ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "roman-aqueduct",
+          "name": "Roman aqueduct",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-20",
+          "searchQuery": "Roman aqueduct ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "colosseum",
+          "name": "Colosseum",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-04",
+          "searchQuery": "Colosseum ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "hagia-sophia",
+          "name": "Hagia Sophia",
+          "emoji": "\ud83d\udd4c",
+          "markerId": "marker-12",
+          "searchQuery": "Hagia Sophia ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "easter-island-moai",
+          "name": "Easter Island moai",
+          "emoji": "\ud83d\uddff",
+          "markerId": "marker-16",
+          "searchQuery": "Easter Island moai ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "desert-monument",
+          "name": "desert monument",
+          "emoji": "\ud83c\udfdc\ufe0f",
+          "markerId": "marker-11",
+          "searchQuery": "desert monument ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "sphinx",
+          "name": "Sphinx",
+          "emoji": "\ud83e\udd81",
+          "markerId": "marker-07",
+          "searchQuery": "Sphinx ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "great-wall",
+          "name": "Great Wall",
+          "emoji": "\ud83e\uddf1",
+          "markerId": "marker-05",
+          "searchQuery": "Great Wall ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "taj-mahal",
+          "name": "Taj Mahal",
+          "emoji": "\ud83d\udd4c",
+          "markerId": "marker-22",
+          "searchQuery": "Taj Mahal ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "marble-column",
+          "name": "marble column",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-24",
+          "searchQuery": "marble column ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "great-pyramid",
+          "name": "Great Pyramid",
+          "emoji": "\ud83d\udd3a",
+          "markerId": "marker-09",
+          "searchQuery": "Great Pyramid ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "ruined-arch",
+          "name": "ruined arch",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-21",
+          "searchQuery": "ruined arch ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "machu-picchu",
+          "name": "Machu Picchu",
+          "emoji": "\ud83c\udfd4\ufe0f",
+          "markerId": "marker-18",
+          "searchQuery": "Machu Picchu ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "ancient-temple",
+          "name": "ancient temple",
+          "emoji": "\ud83d\uded5",
+          "markerId": "marker-08",
+          "searchQuery": "ancient temple ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "leaning-tower",
+          "name": "Leaning Tower",
+          "emoji": "\ud83d\uddfc",
+          "markerId": "marker-13",
+          "searchQuery": "Leaning Tower ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "amphora",
+          "name": "amphora",
+          "emoji": "\ud83c\udffa",
+          "markerId": "marker-10",
+          "searchQuery": "amphora ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "terracotta-army",
+          "name": "Terracotta Army",
+          "emoji": "\ud83e\ude96",
+          "markerId": "marker-01",
+          "searchQuery": "Terracotta Army ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "ancient-statue",
+          "name": "ancient statue",
+          "emoji": "\ud83d\uddff",
+          "markerId": "marker-02",
+          "searchQuery": "ancient statue ancient monument photo",
+          "searchCategory": "ancient monument"
+        },
+        {
+          "id": "parthenon",
+          "name": "Parthenon",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-17",
+          "searchQuery": "Parthenon ancient monument photo",
+          "searchCategory": "ancient monument"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "ancient monument",
+      "pixabayCategory": "science"
+    },
+    {
+      "id": "lost-cities",
+      "title": "Lost Cities",
+      "targets": [
+        "pompeii",
+        "petra",
+        "machu-picchu",
+        "tikal"
+      ],
+      "objects": [
+        {
+          "id": "mayan-pyramid",
+          "name": "Mayan pyramid",
+          "emoji": "\ud83d\uded5",
+          "markerId": "marker-23",
+          "searchQuery": "Mayan pyramid archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "underwater-city",
+          "name": "underwater city",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-16",
+          "searchQuery": "underwater city archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "atlantis",
+          "name": "Atlantis",
+          "emoji": "\ud83c\udf0a",
+          "markerId": "marker-20",
+          "searchQuery": "Atlantis archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "babylon",
+          "name": "Babylon",
+          "emoji": "\ud83c\udffa",
+          "markerId": "marker-13",
+          "searchQuery": "Babylon archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "troy",
+          "name": "Troy",
+          "emoji": "\ud83d\udee1\ufe0f",
+          "markerId": "marker-05",
+          "searchQuery": "Troy archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "lost-civilization",
+          "name": "lost civilization",
+          "emoji": "\u23f3",
+          "markerId": "marker-06",
+          "searchQuery": "lost civilization archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "petra",
+          "name": "Petra",
+          "emoji": "\ud83c\udfdc\ufe0f",
+          "markerId": "marker-07",
+          "searchQuery": "Petra archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "vine-wall",
+          "name": "vine wall",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-22",
+          "searchQuery": "vine wall archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "stone-tablet",
+          "name": "stone tablet",
+          "emoji": "\ud83d\udcdc",
+          "markerId": "marker-12",
+          "searchQuery": "stone tablet archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "ancient-map",
+          "name": "ancient map",
+          "emoji": "\ud83d\uddfa\ufe0f",
+          "markerId": "marker-14",
+          "searchQuery": "ancient map archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "el-dorado",
+          "name": "El Dorado",
+          "emoji": "\ud83c\udf1f",
+          "markerId": "marker-10",
+          "searchQuery": "El Dorado archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "desert-ruins",
+          "name": "desert ruins",
+          "emoji": "\ud83c\udfdc\ufe0f",
+          "markerId": "marker-18",
+          "searchQuery": "desert ruins archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "buried-treasure",
+          "name": "buried treasure",
+          "emoji": "\ud83e\uddf0",
+          "markerId": "marker-21",
+          "searchQuery": "buried treasure archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "jungle-temple",
+          "name": "jungle temple",
+          "emoji": "\ud83c\udf3f",
+          "markerId": "marker-24",
+          "searchQuery": "jungle temple archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "sandstorm",
+          "name": "sandstorm",
+          "emoji": "\ud83c\udf2a\ufe0f",
+          "markerId": "marker-11",
+          "searchQuery": "sandstorm archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "pompeii",
+          "name": "Pompeii",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-09",
+          "searchQuery": "Pompeii archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "archaeologist-hat",
+          "name": "archaeologist hat",
+          "emoji": "\ud83c\udfa9",
+          "markerId": "marker-19",
+          "searchQuery": "archaeologist hat archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "machu-picchu",
+          "name": "Machu Picchu",
+          "emoji": "\ud83c\udfd4\ufe0f",
+          "markerId": "marker-04",
+          "searchQuery": "Machu Picchu archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "cave-painting",
+          "name": "cave painting",
+          "emoji": "\ud83c\udfa8",
+          "markerId": "marker-03",
+          "searchQuery": "cave painting archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "crumbled-column",
+          "name": "crumbled column",
+          "emoji": "\ud83c\udfdb\ufe0f",
+          "markerId": "marker-15",
+          "searchQuery": "crumbled column archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "hidden-doorway",
+          "name": "hidden doorway",
+          "emoji": "\ud83d\udeaa",
+          "markerId": "marker-08",
+          "searchQuery": "hidden doorway archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "aztec-ruins",
+          "name": "Aztec ruins",
+          "emoji": "\ud83d\uded5",
+          "markerId": "marker-01",
+          "searchQuery": "Aztec ruins archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "tikal",
+          "name": "Tikal",
+          "emoji": "\ud83c\udf33",
+          "markerId": "marker-02",
+          "searchQuery": "Tikal archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        },
+        {
+          "id": "excavation-site",
+          "name": "excavation site",
+          "emoji": "\u26cf\ufe0f",
+          "markerId": "marker-17",
+          "searchQuery": "excavation site archaeological ruins photo",
+          "searchCategory": "archaeological ruins"
+        }
+      ],
+      "gameplayMode": "standard",
+      "categoryGroup": "Classic Hunts",
+      "searchCategory": "archaeological ruins",
+      "pixabayCategory": "science"
+    }
+  ]
+}
